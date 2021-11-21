@@ -1,0 +1,14 @@
+html {
+    font-family: Helvetica;
+
+}
+.links {background-color: rgb(247, 239, 239);}
+.rechts {background-color: rgb(204, 192, 177);}
+
+.ü1 {text-align: center; 
+padding: 20px; background-color: rgb(247, 239, 239);}
+
+.ü2 {background-color: rgb(247, 239, 239);}
+.ü3 {background-color: rgb(204, 192, 177);}
+.col-6 {align-items:left;}
+.col-2 {align-items:left}
